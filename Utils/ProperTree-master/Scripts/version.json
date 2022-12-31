@@ -1,0 +1,4 @@
+{
+    "version": "0.1.6",
+    "changes": "- Add OC 0.8.7 hashes.\n- Minor window stack order fix.\n- Don't needlessly pad hex ints."
+}
